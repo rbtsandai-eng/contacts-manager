@@ -22,3 +22,4 @@ crashlytics-build.properties
 
 # Kover
 *.kover
+*.zip
