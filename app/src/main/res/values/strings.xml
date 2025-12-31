@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ContactManager</string>
+    <string name="contacts_title">Contacts</string>
+    <string name="search_hint">Search by name or phone</string>
+    <string name="add_contact">Add contact</string>
+    <string name="delete_contact_title">Delete Contact</string>
+    <string name="delete_contact_message">Are you sure you want to delete %1$s?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_contacts">No contacts yet. Tap + to add one.</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="save_contact">Save Contact</string>
+    <string name="update_contact">Update Contact</string>
+    <string name="add_contact_title">Add Contact</string>
+    <string name="edit_contact_title">Edit Contact</string>
+    <string name="back">Back</string>
+    <string name="required_note">First name, last name, and phone are required.</string>
+</resources>
